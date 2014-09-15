@@ -32,6 +32,10 @@ Philz **Ambrosia** blend.
 
 Results came from running `./election.py coffee.csv`. There are some
 last place ties where one must make some difficult choices. Not really:
-it's just coffee.
+it's just coffee. When you run the algorithm, it will ask you to
+make a choice of the three way tie for last: I picked **Dickason**
+mostly because life is unfair and I don't like Peet's, even though I
+live in Berkeley.
+
 
 This software comes with no warranties or guarantee on results.  Use it at your own risk.  And, by using it you release me from any legal ramifications whatsoever.  And also, enjoy!
