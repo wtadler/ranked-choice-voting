@@ -188,7 +188,7 @@ if __name__ == "__main__":
   try:
     election_file = sys.argv[1]
   except Exception, e:
-    election_file = 'election-1.csv'
+    election_file = '/Users/will/Downloads/brainpirg.csv'
   
   try: 
     myvotes = vote_loader.load_votes(election_file)
